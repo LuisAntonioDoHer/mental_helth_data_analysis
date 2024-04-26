@@ -21,6 +21,8 @@ This repository contains the code and documentation for a data analysis project 
 4. Open the Power BI reports in `power_bi_reports/` and connect them to your SQL database.
 5. Explore the data and visualizations in Power BI.
 
+![Health analytics dashborad_page-0001](https://github.com/Fracktom/mental_helth_data_analysis/assets/129825724/038c91d9-5e0d-4b86-8337-0272fe3e57a5)
+
 
 ## Contributors
 
